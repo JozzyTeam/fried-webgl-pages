@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996719823979",
+    "project_id": "fried-chicken-royale-jozzy",
+    "storage_bucket": "fried-chicken-royale-jozzy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996719823979:android:f350665d9f7c3c3c3af52e",
+        "android_client_info": {
+          "package_name": "com.maveragames.FriedChickenRoyales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdaLpl4QZHz2hlsJRFyYV-hjDNKLpkaXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
